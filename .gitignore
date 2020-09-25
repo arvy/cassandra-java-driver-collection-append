@@ -1,5 +1,14 @@
 .gradle
 /build/
+/gradlew
+/gradlew.bat
+/gradle
+
+**/*.DS_Store
+
+*.ipr
+*.iws
+*.iml
 
 # Ignore Gradle GUI config
 gradle-app.setting
